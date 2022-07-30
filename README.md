@@ -1,10 +1,41 @@
-- 👋 Hi, I’m SamFons
-- 👀 I’m interested in web Development
-- 🌱 I’m currently learning FullStack Web Development
-- 📫 How to reach me Samuelbatista3rios@gmail.com
+<div align="left">
+  <h1>Olá, sou Josué </h1>
+  📖Estou estudando Front-End / Back-end
+   <br>
+  👨‍💻Quero trabalhar como Programador
+    <br>
+  😎Tenho 24 anos
+   <br>
+  👨🏻‍🎓Graduado em Tecnologia da Informação 
+  <br>
+  👨🏻‍🎓Pós-graduação Engenharia de Software
+  <br>
+  📚Graduando Análise e Desenvolvimento de Sistemas
+  
+</div>
 
-<!---
-samuelbatista3rios/samuelbatista3rios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+<div align="center">
+  <a href="https://github.com/JosueLeopoldo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueLeopoldo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+  
+  
+  
+  
+  <div align="center"><br>
+  <img align="rigth" alt="Josue-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="" alt="Josue-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="" alt="Josue-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="t" alt="Josue-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+  
+  <div align="center">
+ <a href="https://www.instagram.com/josue.frontend/" rel="nofollow"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></a>
+ 	<a href="https://www.twitch.tv/josueleopoldo0" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitch.png"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"></a> 
+  <a href = "mailto:contatojosueleopoldo@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"></a>
+  <a href="https://www.linkedin.com/in/josu%C3%A9-leopoldo-75067821b/" rel="nofollow"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"></a>
+</div> 
+  
+![snake gif](https://github.com/JosueLeopoldo/JosueLeopoldo/blob/output/github-contribution-grid-snake.svg)
