@@ -1,21 +1,20 @@
 <div align="left">
-  <h1>Olá, sou Josué </h1>
+  <h1>Olá, sou Samuel </h1>
   📖Estou estudando Front-End / Back-end
    <br>
   👨‍💻Quero trabalhar como Programador
     <br>
-  😎Tenho 24 anos
+  😎Tenho 26 anos
    <br>
-  👨🏻‍🎓Graduado em Tecnologia da Informação 
+  👨🏻‍🎓Graduado em Administração
   <br>
-  👨🏻‍🎓Pós-graduação Engenharia de Software
-  <br>
-  📚Graduando Análise e Desenvolvimento de Sistemas
+  
+  📚Graduando Engenharia de Software
   
 </div>
 
 <div align="center">
-  <a href="https://github.com/JosueLeopoldo">
+  <a href="https://github.com/samuelbatista3rios">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueLeopoldo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
