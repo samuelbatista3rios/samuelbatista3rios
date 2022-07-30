@@ -36,4 +36,4 @@
   <a href="https://www.linkedin.com/in/samuel-fonseca-0289a6121/" rel="nofollow"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"></a>
 </div> 
   
-![snake gif](https://github.com/JosueLeopoldo/JosueLeopoldo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/samuelbatista3rios/samuelbatista3rios/blob/output/github-contribution-grid-snake.svg)
