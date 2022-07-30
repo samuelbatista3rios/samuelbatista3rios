@@ -1,6 +1,6 @@
 <div align="left">
   <h1>Olá, sou Samuel </h1>
-  📖Estou estudando Front-End / Back-end
+  📖Sou programador FullStack junior/Pleno (Dependendo da biblioteca xD)
    <br>
   👨‍💻Quero trabalhar como Programador
     <br>
