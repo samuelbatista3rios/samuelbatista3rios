@@ -1,10 +1,10 @@
 <div align="left">
   <h1>Olá, sou Samuel </h1>
-  📖Sou programador FullStack junior/Pleno (Dependendo da biblioteca xD)
+  📖Sou Web developer FullStack junior/Pleno (Dependendo da biblioteca xD)
    <br>
   👨‍💻Quero trabalhar como Programador
     <br>
-  😎Tenho 26 anos
+  😎Tenho 27 anos
    <br>
   👨🏻‍🎓Graduado em Administração
   <br>
