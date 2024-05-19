@@ -6,10 +6,10 @@
     <br>
   😎Tenho 27 anos
    <br>
-  👨🏻‍🎓Graduado em Administração
-  <br>
+  👨🏻‍🎓
+  Pos Graduação em FullStack Development
   
-  📚Graduando Engenharia de Software
+
   
 </div>
 
