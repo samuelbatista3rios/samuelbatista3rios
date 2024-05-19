@@ -1,10 +1,10 @@
 <div align="left">
-  <h1>Olá, sou Samuel </h1>
-  📖Sou FullStack web developer junior/Pleno (Dependendo da biblioteca xD)
+  <h1>Olá, sou Samuel Fonseca </h1>
+  📖Sou um Desenvolvedor FullStack junior/Pleno (Dependendo da biblioteca xD)
    <br>
   👨‍💻Quero trabalhar como Programador
     <br>
-  😎Tenho 27 anos
+  😎Tenho 28 anos
    <br>
   👨🏻‍🎓
   Pos Graduação em FullStack Development
