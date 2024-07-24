@@ -28,7 +28,6 @@
   <img align="" alt="Samuel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="" alt="Samuel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="t" alt="Samuel-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-     <img align="t" alt="Samuel-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg">
 </div>
   
   <div align="center">
