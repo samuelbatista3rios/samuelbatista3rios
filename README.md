@@ -1,6 +1,6 @@
 <div align="left">
   <h1>Olá, sou Samuel Fonseca </h1>
-  📖Sou um Desenvolvedor FullStack junior/Pleno (Dependendo da biblioteca xD)
+  📖Sou um Desenvolvedor FullStack
    <br>
   👨‍💻Quero trabalhar como Programador
     <br>
