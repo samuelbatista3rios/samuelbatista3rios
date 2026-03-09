@@ -5,16 +5,16 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8F0D87&center=true&vCenter=true&random=false&width=600&lines=I+%E2%9D%A4%EF%B8%8F+solve+great+challenges+using+tech;Full+Stack+Engineer+%7C+4%2B+years;React+%7C+Node.js+%7C+Python+%7C+FastAPI;Building+scalable+%26+automated+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8F0D87&center=true&vCenter=true&random=false&width=600&lines=I+%E2%9D%A4%EF%B8%8F+solve+great+challenges+using+tech;Full+Stack+Engineer+%7C+5%2B+years;React+%7C+Node.js+%7C+Python+%7C+FastAPI;Building+scalable+%26+automated+solutions" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- No README.md, adicione onde quiser: -->
 <div align="center">
   <img src="./assets/dev-card.png" width="400px" />
 </div>
 
+<br/>
 
 ---
 
@@ -24,7 +24,7 @@
 const samuel = {
   role:       "Full Stack Developer",
   location:   "Brasil 🇧🇷",
-  experience: "4+ years",
+  experience: "5+ years",
   
   mainStack:  ["React.js", "Node.js", "Python", "Flask", "FastAPI"],
   databases:  ["PostgreSQL", "MongoDB"],
@@ -88,7 +88,7 @@ const samuel = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelbatista3rios&theme=dracula&hide_border=true&background=0D1117" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=samuelbatista3rios&theme=dracula&hide_border=true&background=0D1117" alt="streak stats"/>
 </div>
 
 <br/>
@@ -117,12 +117,6 @@ const samuel = {
 <br/>
 
 ---
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/samuelbatista3rios/samuelbatista3rios/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=samuelbatista3rios&color=8F0D87&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
