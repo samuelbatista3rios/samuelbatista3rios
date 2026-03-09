@@ -1,9 +1,3 @@
-<!-- No README.md, adicione onde quiser: -->
-<div align="center">
-  <img src="./assets/dev-card.png" width="400px" />
-</div>
-
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samuel%20Fonseca&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Craftsman&descAlignY=55&descSize=16"/>
@@ -20,6 +14,12 @@
 </div>
 
 <br/>
+
+<!-- No README.md, adicione onde quiser: -->
+<div align="center">
+  <img src="./assets/dev-card.png" width="400px" />
+</div>
+
 
 ---
 
