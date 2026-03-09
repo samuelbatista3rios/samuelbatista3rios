@@ -1,5 +1,3 @@
-
-vamos melhorar a cara do meu readme.md do GitHub. Deixe bem legal, atrativo e com cara de Dev Foda. faça um Overall como nos jogadores do FIFA, mas voltado pra desenvolvimento, stacks e coisas assim, voce tem libeberdade. o arquivo é esse: 
 <h1>I am Samuel Fonseca</h1>
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology.  Integrating all of this with the fundamentals of agile development.</p>&nbsp;
 <div  align="center" style="margin-bottom:100px">
@@ -45,147 +43,16 @@ vamos melhorar a cara do meu readme.md do GitHub. Deixe bem legal, atrativo e co
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
-Mostrar mais
-15:55
 
-Check frontend design skill
-Check frontend design skill
-Vou criar um README incrível com um Overall card estilo FIFA para dev. Deixa eu montar isso!
-
-
-Criou um arquivo, leu um arquivo
-Criou um arquivo, leu um arquivo
-Aqui está o seu novo README! 🔥 Aqui o que foi adicionado/melhorado:
-
-⚡ DEV CARD estilo FIFA — card no topo com OVR 92 e atributos em barra de progresso: Frontend, Backend, Database, DevOps, Automation e Testing.
-
-🎯 Outros upgrades:
-
-Typing SVG animado com suas tecnologias
-Bloco const samuel = {} em JavaScript mostrando seu perfil como código
-Seção de skills reorganizada em categorias visuais claras
-3 painéis de stats: GitHub Stats + Top Langs + Streak (commits consecutivos)
-GitHub Profile Trophies
-Snake animation (contribution grid animada) — você precisa configurar o GitHub Actions para gerar o SVG, siga esse guia
-Header e footer com gradient waving animado
-💡 Dica: Para o snake animation funcionar, crie o arquivo de workflow no seu repo samuelbatista3rios/samuelbatista3rios seguindo a doc do platane/snk.
-
-Readme
-Documento · MD 
-1773082972893_image.png
-consegue fazer como grafico mesmo??
-
-16:02
-Vou criar o gráfico hexagonal estilo FIFA de verdade!
-
-
-Criou um arquivo, leu um arquivo
-Criou um arquivo, leu um arquivo
-Pronto! 🔥 O gráfico hexagonal estilo FIFA está feito com:
-
-Radar hexagonal real gerado com SVG + JavaScript, igualzinho ao da imagem
-6 atributos: Frontend (88), Backend (91), Database (85), Automation (90), Testing (87), DevOps (78)
-Cores nos labels: verde para alto (85+), amarelo para médio, vermelho para baixo
-OVR 92 no banner superior com seu nome e bandeira 🇧🇷
-Grid de stats com barras de progresso coloridas por categoria
-Tags das suas principais stacks
-Efeitos de glow, gradientes e hover nas stats
-💡 Para usar no GitHub README, você pode hospedar o HTML como GitHub Page ou converter para imagem com uma ferramenta como htmlcsstoimage.com e referenciar no README!
-
-Dev card
-Código · HTML 
-como faço isso?
-
-16:06
-Vou te mostrar como converter o HTML em imagem usando o site htmlcsstoimage.com! Deixa eu fazer isso pra você agora.
-
-
-Usou a integração Claude in Chrome
-Usou a integração Claude in Chrome
-Tem um Live Demo aqui mesmo! Deixa eu rolar pra baixo pra ver o editor.
-
-
-Usou a integração Claude in Chrome
-Usou a integração Claude in Chrome
-Perfeito! Tem um editor Live Demo. Vou colar o HTML do dev-card aqui. Primeiro vou selecionar todo o conteúdo do editor e substituir.
-
-
-Usou a integração Claude in Chrome, executou um comando
-Usou a integração Claude in Chrome, executou um comando
-Na verdade, a forma mais simples de fazer isso é diretamente no seu navegador, sem precisar de serviços externos. Deixa eu te mostrar o método mais fácil:
-
-🖼️ 3 formas de converter seu HTML em imagem
-✅ Método 1 — Print Screen no navegador (mais fácil, grátis)
-Abra o arquivo dev-card.html no Chrome
-Aperte F12 → aba Device Toolbar (ícone de celular/tablet)
-Defina a largura como 420px
-Clique com botão direito → "Capture node screenshot" ou use a extensão GoFullPage
-Salva como .png ✅
-✅ Método 2 — Screely / Carbon (online, sem cadastro)
-Acesse screely.com ou ray.so
-Faça print da tela com o card aberto
-Cole e faça o crop da imagem
-✅ Método 3 — html2canvas (dentro do próprio HTML)
-Posso adicionar um botão "Baixar como PNG" direto no card usando a lib html2canvas. Assim você abre o HTML no navegador, clica no botão e já baixa a imagem. Quer que eu faça isso?
-
-✅ Método 4 — Para usar no README do GitHub
-O GitHub README não renderiza HTML com JS/SVG animado. A melhor estratégia é:
-
-Gerar a imagem .png do card
-Subir no seu repositório (pasta /assets/)
 Referenciar no README: ![Dev Card](./assets/dev-card.png)
 Qual método prefere? Faço o botão de download automático no HTML se quiser! 🚀
 
-4
 
-16:10
-Vou adicionar um botão "Baixar como PNG" direto no card usando html2canvas!
-
-
-Editou um arquivo, leu um arquivo
-Editou um arquivo, leu um arquivo
-Pronto! 🎉 Agora é só seguir esses passos:
-
-Baixe o arquivo dev-card.html acima
-Abra no Chrome (duplo clique no arquivo)
-Clique no botão roxo "⬇ BAIXAR COMO PNG"
-O arquivo samuel-fonseca-dev-card.png vai aparecer na sua pasta de Downloads
-Para colocar no GitHub README:
-
-bash
-# 1. Crie uma pasta assets no seu repositório de perfil
-# (repositório com mesmo nome do seu usuário: samuelbatista3rios)
-
-# 2. Suba a imagem
-git add assets/dev-card.png
-git commit -m "feat: add dev card"
-git push
-markdown
 <!-- No README.md, adicione onde quiser: -->
 <div align="center">
   <img src="./assets/dev-card.png" width="400px" />
 </div>
-Dev card
-Código · HTML 
-ajuste para 5+ anos, por favor
 
-16:11
-Simples!
-
-
-Editou 2 arquivos, executou 2 comandos, leu um arquivo
-Editou 2 arquivos, executou 2 comandos, leu um arquivo
-Atualizado! Agora está 5+ YRS no badge do card e 5+ years no bloco de código do README. ✅
-
-Dev card
-Código · HTML 
-
-
-
-
-Claude é uma IA e pode cometer erros. Por favor, verifique as respostas.
-Readme · MD
-Copiar
 
 <div align="center">
 
