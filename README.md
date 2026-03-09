@@ -83,12 +83,12 @@ const samuel = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelbatista3rios&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbatista3rios&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-wheat-six-79.vercel.app/api?username=samuelbatista3rios&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-wheat-six-79.vercel.app/api/top-langs/?username=samuelbatista3rios&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=samuelbatista3rios&theme=dracula&hide_border=true&background=0D1117" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=samuelbatista3rios&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -108,7 +108,7 @@ const samuel = {
 ## 📡 Let's Connect
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-fonseca-0289a6121/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.samuelbatista3rios@gmail.com)
 
