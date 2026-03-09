@@ -6,9 +6,6 @@
 
 <br/>
 
-
-<br/>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8F0D87&center=true&vCenter=true&random=false&width=600&lines=I+%E2%9D%A4%EF%B8%8F+solve+great+challenges+using+tech;Full+Stack+Engineer+%7C+4%2B+years;React+%7C+Node.js+%7C+Python+%7C+FastAPI;Building+scalable+%26+automated+solutions" alt="Typing SVG" />
 </div>
